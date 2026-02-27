@@ -9,4 +9,8 @@ public static void main(String[] args) {
 }
 
 
-//constructor can not be overridden, but can be inherited
+//we can only make parent-child relation
+//because child must have it's own constructor
+//from there we can call parent class constructor with the help of the super keyword
+
+//it's not like we can directly get the parents method
