@@ -1,5 +1,6 @@
 package interfacePractice;
 
+
 public class InterfaceChild_MultipleInheritence implements InterfaceParent, InterfaceParent2{
 
 	@Override
