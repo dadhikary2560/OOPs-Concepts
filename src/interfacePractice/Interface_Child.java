@@ -1,5 +1,6 @@
 package interfacePractice;
 
+
 public class Interface_Child implements InterfaceParent {
 
 	@Override
