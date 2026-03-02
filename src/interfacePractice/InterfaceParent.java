@@ -1,5 +1,6 @@
 package interfacePractice;
 
+
 public interface InterfaceParent {
 	void m1(); // so this is abstract method
 
